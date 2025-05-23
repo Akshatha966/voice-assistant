@@ -31,17 +31,19 @@ cd voice-assistant
 2. Install dependencies:
 pip install speechrecognition pyttsx3 pyaudio wikipedia
 
-##Usage
+## Usage
+
 python assistant.py
 
-Sample Commands
+## Sample Commands
+
 1."What is the time?"
 
 2."Open YouTube"
 
 3."Search Wikipedia for Python programming"
 
-4. "Exit"
+4."Exit"
 
 
 
